@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Deployed : https://Petras-aleksandar988.github.io/task-tracker-react
+
 In the project directory, you can run:
 
 ### `npm start`
